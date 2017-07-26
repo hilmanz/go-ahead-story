@@ -1,0 +1,45 @@
+<modify-entry
+   name="blog-thumb1.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/blog-thumb1.jpg.svn-base"
+   name=".svn/prop-base/tempfile.tmp"/>
+<readonly
+   name=".svn/prop-base/blog-thumb1.jpg.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2014-02-06T08:42:26.002265Z"
+   name="blog-thumb1.jpg"
+   last-author="bummi"
+   uuid="864475e4-7d6c-480b-a1e2-5627f1cf15dc"/>
+<modify-wcprop
+   name="blog-thumb1.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/go-ahead-story/!svn/ver/2/trunk/goaheadstory/public_html/assets/content/blog-thumb1.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="blog-thumb1.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="blog-thumb1.jpg"
+   name=".svn/tmp/text-base/blog-thumb1.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/blog-thumb1.jpg.svn-base"
+   name=".svn/tmp/text-base/blog-thumb1.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/blog-thumb1.jpg.svn-base"/>
+<modify-entry
+   name="blog-thumb1.jpg"
+   checksum="4aecc74dc4f05c41c16decf8eb0c85e6"/>
+<modify-entry
+   name="blog-thumb1.jpg"
+   text-time="working"/>
+<modify-entry
+   name="blog-thumb1.jpg"
+   working-size="working"/>

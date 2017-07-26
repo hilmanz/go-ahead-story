@@ -1,0 +1,135 @@
+<modify-entry
+   name="slide.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/slide.jpg.svn-base"
+   name=".svn/prop-base/tempfile.tmp"/>
+<readonly
+   name=".svn/prop-base/slide.jpg.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2014-02-06T08:42:26.002265Z"
+   name="slide.jpg"
+   last-author="bummi"
+   uuid="864475e4-7d6c-480b-a1e2-5627f1cf15dc"/>
+<modify-wcprop
+   name="slide.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/go-ahead-story/!svn/ver/2/trunk/goaheadstory/public_html/assets/content/slide/slide.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="slide.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="slide.jpg"
+   name=".svn/tmp/text-base/slide.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/slide.jpg.svn-base"
+   name=".svn/tmp/text-base/slide.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/slide.jpg.svn-base"/>
+<modify-entry
+   name="slide.jpg"
+   checksum="2e30201a60522fe4362f719a093c3abc"/>
+<modify-entry
+   name="slide.jpg"
+   text-time="working"/>
+<modify-entry
+   name="slide.jpg"
+   working-size="working"/>
+<modify-entry
+   name="slide1.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/slide1.jpg.svn-base"
+   name=".svn/prop-base/tempfile.2.tmp"/>
+<readonly
+   name=".svn/prop-base/slide1.jpg.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2014-02-06T08:42:26.002265Z"
+   name="slide1.jpg"
+   last-author="bummi"
+   uuid="864475e4-7d6c-480b-a1e2-5627f1cf15dc"/>
+<modify-wcprop
+   name="slide1.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/go-ahead-story/!svn/ver/2/trunk/goaheadstory/public_html/assets/content/slide/slide1.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="slide1.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="slide1.jpg"
+   name=".svn/tmp/text-base/slide1.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/slide1.jpg.svn-base"
+   name=".svn/tmp/text-base/slide1.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/slide1.jpg.svn-base"/>
+<modify-entry
+   name="slide1.jpg"
+   checksum="99f48867f4f461564da43181e3c9c816"/>
+<modify-entry
+   name="slide1.jpg"
+   text-time="working"/>
+<modify-entry
+   name="slide1.jpg"
+   working-size="working"/>
+<modify-entry
+   name="slide2.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/slide2.jpg.svn-base"
+   name=".svn/prop-base/tempfile.3.tmp"/>
+<readonly
+   name=".svn/prop-base/slide2.jpg.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2014-02-06T08:42:26.002265Z"
+   name="slide2.jpg"
+   last-author="bummi"
+   uuid="864475e4-7d6c-480b-a1e2-5627f1cf15dc"/>
+<modify-wcprop
+   name="slide2.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/go-ahead-story/!svn/ver/2/trunk/goaheadstory/public_html/assets/content/slide/slide2.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="slide2.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="slide2.jpg"
+   name=".svn/tmp/text-base/slide2.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/slide2.jpg.svn-base"
+   name=".svn/tmp/text-base/slide2.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/slide2.jpg.svn-base"/>
+<modify-entry
+   name="slide2.jpg"
+   checksum="6c799d7770cf27283a526526dfd618d7"/>
+<modify-entry
+   name="slide2.jpg"
+   text-time="working"/>
+<modify-entry
+   name="slide2.jpg"
+   working-size="working"/>

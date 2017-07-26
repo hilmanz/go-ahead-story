@@ -1,0 +1,267 @@
+/*
+Theme Name:  A 360 
+Version: 1.0
+Author: Acit Jazz 2013
+*/
+.icon_cat{
+	display:block;
+	width:45px; height:45px;
+	background-repeat:no-repeat;
+}
+.icons{
+	display:block;
+	width:35px; height:35px;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.icon_style{ /* ubah penamaan class sebelumnya fashion */
+	background-image:url(../images/icon/categories/fashion.png);
+}
+.icon_music{
+	background-image:url(../images/icon/categories/music.png);
+}
+.icon_photography{
+	background-image:url(../images/icon/categories/photograpy.png);
+}
+.icon_visualart{
+	background-image:url(../images/icon/categories/visual.png);
+}
+.icon_band{
+	background-image:url(../images/icon/icon_band.png);
+}
+.icon_djs{
+	background-image:url(../images/icon/icon_dj.png);
+}
+#carousel li.flex-active-slide .icon_style{
+	background-image:url(../images/icon/categories/fashion_black.png);
+}
+#carousel li.flex-active-slide .icon_music,
+#carousel li.flex-active-slide .icon_dj{
+	background-image:url(../images/icon/categories/music_black.png);
+}
+#carousel li.flex-active-slide .icon_photography{
+	background-image:url(../images/icon/categories/photograpy_black.png);
+}
+#carousel li.flex-active-slide .icon_visualart{
+	background-image:url(../images/icon/categories/visual_black.png);
+}
+.icon_post{
+	background-image:url(../images/icon/icon_pencil.png);
+}
+.icon{
+	display:block;
+	font-family: 'BebasNeueRegular', serif;
+	font-weight:normal;
+	background-repeat:no-repeat;
+}
+#competitionPagesContent h2.icon{
+	line-height:45px;
+	padding:0 0 0 50px;
+	margin:0 0 10px 0;
+}
+.the-title .icon{
+	padding:0 0 0 40px;
+	font-size:22px;
+	line-height:40px;
+	background-position:3px 3px;
+	font-weight:normal;
+}
+.icon_ribbon{
+	background:url(../images/icon/icon_ribbon.png) no-repeat;
+}
+.icon_refresh{
+	background:url(../images/icon/icon_refresh.png) no-repeat;
+}
+.icon_news{
+	background:url(../images/icon/icon_news.png) no-repeat;
+}
+.icon_tag{
+	background: url(../images/icon/icon_tag.png) no-repeat;
+}
+.icon_serachbox{
+	background: url(../images/icon/icon_search_title.png) no-repeat;
+}
+.icon_review{
+	background: url(../images/icon/icon_pencil_title.png) no-repeat;
+}
+.icon_smile{
+	background: url(../images/icon/icon_smile.png) no-repeat;
+}
+.icon_message{
+	background: url(../images/icon/icon_message.png) no-repeat;
+}
+.icon_setting{
+	background: url(../images/icon/icon_setting.png) no-repeat;
+}
+.icon_setting a{
+	color:#666;
+}
+.icon_arrow{
+	background:url(../images/icon/icon_arrow_down.png) no-repeat right center;
+}
+.icon_link{
+	background:url(../images/icon/icon_link.png) no-repeat;
+}
+.icon_follow{
+	background-image: url(../images/icon/icon_follow.png);
+}
+.icon_follow:hover{
+	background-image: url(../images/icon/icon_follow_gray.png);
+	color:#A0A0A0;
+}
+.icon_people{
+	background-image: url(../images/icon/icon_people.png);
+}
+.icon_people:hover{
+	background-image: url(../images/icon/icon_people_gray.png);
+	color:#A0A0A0;
+}
+.icon_kaset{
+	background-image: url(../images/icon/icon_kaset.png);
+}
+.icon_kaset:hover{
+	background-image: url(../images/icon/icon_kaset_gray.png);
+	color:#A0A0A0;
+}
+.icon_trash{
+	background: url(../images/icon/icon_trash.png) no-repeat 0 5px;
+	display:block;
+	padding:0;
+	width:20px; height:30px;
+}
+.icon_camera{
+	background-image: url(../images/icon/icon_camera.png);
+	display:block;
+	width:39px;
+	height:39px;
+}
+.icon_music,.icon_dj{
+	background-image: url(../images/icon/icon_music.png);
+	background-repeat:no-repeat;
+}
+.icon_calendar{
+	background-image: url(../images/icon/icon_calendar.png);
+	background-repeat:no-repeat;
+}
+.icon_comment{
+	background-image: url(../images/icon/icon_comment.png) ;
+	background-repeat:no-repeat;
+}
+.icon_comment:hover{
+	background-image: url(../images/icon/icon_comment_gray.png) ;
+	background-repeat:no-repeat;
+	color:#E40404;
+}
+.icon_view{
+	background-image: url(../images/icon/icon_view.png) ;
+	background-repeat:no-repeat;
+}
+.icon_view:hover {
+	background-image: url(../images/icon/icon_view_gray.png) ;
+	background-repeat:no-repeat;
+	color:#777;
+}
+.icon_editpost{
+	background-image: url(../images/icon/icon_edit.png) ;
+	background-repeat:no-repeat;
+}
+.icon_editpost:hover{
+	background-image: url(../images/icon/icon_edit_hover.png) ;
+	background-repeat:no-repeat;
+	color:#777;
+}
+.icon_follows{
+	background-image: url(../images/icon/icon_ceklist_red.png) ;
+	background-repeat:no-repeat;
+}
+.icon_follows:hover {
+	background-image: url(../images/icon/icon_ceklist_grey.png) ;
+	background-repeat:no-repeat;
+	color:#777;
+}
+.icon_love{
+	background-image: url(../images/icon/icon_love.png);
+}
+.icon_love:hover{
+	background-image: url(../images/icon/icon_love_gray.png);
+	background-repeat:no-repeat;
+	color:#E40404;
+}
+.icon_cover{
+	background-image: url(../images/icon/icon_cover.png) ;
+	background-repeat:no-repeat;
+}
+.icon_plus{
+	background-image: url(../images/icon/icon_plus.png) ;
+	background-repeat:no-repeat;
+}
+.content_action li a{
+	background-position:0px 1px;
+	background-repeat:no-repeat;
+}
+.iconMp3,.thePlayer .mejs-controls .mejs-play button,.thePlayer .mejs-controls .mejs-pause button,
+.thePlayer .mejs-container .mejs-controls .mejs-volume-button button{
+	background-image:url(../images/btn_player.png);
+	background-repeat:no-repeat;
+	display:block;
+	width:25px; height:25px;
+	cursor:pointer;
+	-webkit-transition:none;
+	-moz-transition: none;
+	-o-transition: none;
+	-ms-transition:none;
+	transition:none;
+}
+.icon_play{
+	background-position:-26px 0;
+}
+.current .icon_play,.thePlayer .mejs-controls .mejs-play button{
+	background-position:0 0;
+}
+.icon_prev{
+	background-position:-74px 0;
+}
+.icon_next{
+	background-position:-48px 0px;
+}
+.icon_play:hover,.mejs-list tr:hover .icon_play{
+	background-position:0 0;
+}
+.current .icon_play:hover,.thePlayer .mejs-controls .mejs-pause button{
+	background-position:0  -25px;
+}
+.icon_prev:hover{
+	background-position:-74px -25px;
+}
+.icon_next:hover{
+	background-position:-48px -25px ;
+}
+.thePlayer .mejs-container .mejs-controls .mejs-volume-button button{
+	background-image:url(../images/btn_player.png);
+	background-repeat:no-repeat;
+	background-position:-102px 0;
+	margin:3px;
+}
+.thePlayer .mejs-container .mejs-controls .mejs-volume-button button:hover{
+	background-position:-102px -25px;
+}
+.icon_download{
+	background: url(../images/icon/icon_download.png);
+	position:absolute;
+	right:10px;
+	bottom:8px;
+	display:block;
+	width:20px; height:20px;
+}
+.icon_download:hover{
+	background: url(../images/icon/icon_download.png) 0 -20px;
+}
+.icon_merchandise{
+	background: url(../images/icon/icon_merchandise.png) no-repeat;
+	display:block;
+	width:40px; height:40px;
+	text-decoration:none;
+	position:absolute;
+	bottom:10px;
+	right:10px;
+}

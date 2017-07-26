@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/go-ahead-story/!svn/ver/2/trunk/goaheadstory/authentication
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/go-ahead-story/!svn/ver/2/trunk/goaheadstory/authentication/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/go-ahead-story/!svn/ver/2/trunk/goaheadstory/authentication/index.php
+END
+common.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/go-ahead-story/!svn/ver/2/trunk/goaheadstory/authentication/common.php
+END
